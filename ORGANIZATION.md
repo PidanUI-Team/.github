@@ -27,6 +27,12 @@ Eggy UI 的发展历程充满了波折，大致可以分为以下几个阶段：
 *   **🔄 分裂与“复活” (2026年)**：2026年4~8月，项目以不同分支的形式“复活”：
     *   **EggyUI-SE分支**：由开发者“冷落的小情绪”主导。
     *   **EggyUI 分支**：以EggyUI-SE为基础进行变基，由新开发团队在[新仓库](https://github.com/QiXiaoLight/EggyUI)开发。
-    *   **Eggy UI Team分支**：项目组正式重启，由部分原班人马以及新成员在[GitCode 组织](https://gitcode.com/eggy-ui-team)继续开发。
+    *   **Eggy UI-RE分支**：项目组正式重启，由部分原班人马以及新成员在[GitCode 组织](https://gitcode.com/eggy-ui-team)继续开发。
+ 
+ ### 🤝 加入EggyUI团队
+ 
+ EggyUI 项目组欢迎对《蛋仔派对》风格桌面美化感兴趣的开发者、设计师和爱好者加入。目前，加入团队需先完成在线表单：
 
-总的来说，Eggy UI 团队是一个由爱好者因热情组建，但最终因技术和管理问题而走向分裂的典型社区项目。
+1. https://dmmdzzmusicarchive.wordpress.com/join-eggyui-develop-team/
+2. https://v.wjx.cn/vm/h4Z10vL.aspx# （过期）
+ 
